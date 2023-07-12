@@ -2,6 +2,12 @@
 
 Includes GitHub repo links to standalone projects I've created in descending order of completion.
 
+### [Instagram Follower Bot](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-51-60/day-52/instagram-follower-bot/)
+
+The Day 52 project of [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python/tree/main) was to create an Instagram bot to automate following any Instagram page's list of followers. 
+
+I followed the advised project structure of using a `class` function with three methods but had to write the solution code independently as the course solution code is very outdated.
+
 ### [Automate Giphy GIF Likes](https://github.com/marilynyi/100-days-of-code-python/tree/main/days-41-50/day-50/automate-giphy-gif-likes/)
 
 The Day 50 project of [`/100-days-of-code`](https://github.com/marilynyi/100-days-of-code-python/tree/main) was to create a Tinder bot to automatically match with profiles by liking or disliking. 
