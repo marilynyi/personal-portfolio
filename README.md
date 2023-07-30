@@ -2,6 +2,10 @@
 
 Includes GitHub repo links to standalone projects I've created in descending order of completion.
 
+### [Investigating New Movie Ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb)
+
+The original project 'Investigating Fandango Movie Ratings' uses data from 2015 and is very outdated as Fandango no longer uses the rating system the project is based on. I adapted this project to explore current movie releases in theaters. The project focuses on web scraping and exploring the data from four movie critic sites: Metacritic, IMDb, Rotten Tomatoes, and Fandango. 
+
 ### [Exploring FiveThirtyEight's Star Wars Survey](https://github.com/marilynyi/dataquest-data-scientist/blob/main/09_exploring_star_wars_survey/exploring_fivethirtyeight_star_wars_survey.ipynb)
 
 This is my adaptation and extended version of one of [Dataquest](https://www.dataquest.io/)'s guided projects in which I've analyzed the 1,186 survey responses collected by FiveThirtyEight for their own [original analysis](https://fivethirtyeight.com/features/americas-favorite-star-wars-movies-and-least-favorite-characters/).
