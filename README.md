@@ -2,6 +2,12 @@
 
 Includes GitHub repo links to standalone projects I've created in descending order of completion.
 
+### [Finding the Best Markets to Advertise In](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb)
+
+Analyzing the most recent 2021 freeCodeCamp survey data instead of the 2017 one provided by the course, I independently sought to achieve the same project objective as Dataquest's [guided project](https://app.dataquest.io/c/56/m/310/guided-project%3A-finding-the-best-markets-to-advertise-in/1/finding-the-best-two-markets-to-advertise-in?path=2&slug=data-scientist&version=1): identifying the two best markets for an e-learning company to advertise its product in. 
+
+Apart from using only the project objective as my guiding light, this project demonstrates construction of a large set of complex and informative visuals.
+
 ### [Investigating New Movie Ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb)
 
 The original project 'Investigating Fandango Movie Ratings' uses data from 2015 and is very outdated as Fandango no longer uses the rating system the project is based on. This project diverges from the original by exploring ratings for current movie releases in theaters only.
