@@ -4,7 +4,7 @@ Includes GitHub repo links to standalone projects I've created in descending ord
 
 ### [Investigating New Movie Ratings](https://github.com/marilynyi/dataquest-data-scientist/blob/main/13_investigating_new_movie_ratings/investigating_new_movie_ratings.ipynb)
 
-The original project 'Investigating Fandango Movie Ratings' uses data from 2015 and is very outdated as Fandango no longer uses the rating system the project is based on. This project diverges completely from the original by exploring ratings for current movie releases in theaters only.
+The original project 'Investigating Fandango Movie Ratings' uses data from 2015 and is very outdated as Fandango no longer uses the rating system the project is based on. This project diverges from the original by exploring ratings for current movie releases in theaters only.
 
 Statistical elements, namely sampling, descriptive statistics (mean), and frequency distributions were incorporated to demonstrate lessons learned in Dataquest: Data Scientist's Part 6: Probability and Statistics leading up to the project. Much of the project also demonstrates web scraping to form our own dataset.
 
