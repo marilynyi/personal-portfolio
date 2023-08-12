@@ -2,7 +2,7 @@
 
 Includes GitHub repo links to standalone projects I've created in descending order of completion.
 
-### [Finding the Best Markets to Advertise In](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb)
+### [Finding Markets for E-Learning Product Promotion](https://github.com/marilynyi/dataquest-data-scientist/blob/main/14_finding_the_best_markets_to_advertise_in/finding_the_best_markets_to_advertise_in.ipynb)
 
 Analyzing the most recent 2021 freeCodeCamp survey data instead of the 2017 one provided by the course, I independently sought to achieve the same project objective as Dataquest's [guided project](https://app.dataquest.io/c/56/m/310/guided-project%3A-finding-the-best-markets-to-advertise-in/1/finding-the-best-two-markets-to-advertise-in?path=2&slug=data-scientist&version=1): identifying the two best markets for an e-learning company to advertise its product in. 
 
